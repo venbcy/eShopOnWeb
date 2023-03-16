@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-dmitryr
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: f556b109-49ab-4f45-b3c6-398c43e7c13d
+  SUBSCRIPTION-ID: 784b78f7-d5fd-49f5-a7e2-013800e6a75f
   WEBAPP-NAME: az400-webapp-dmitryr
 
 
